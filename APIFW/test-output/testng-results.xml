@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="10" passed="10">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2966" started-at="2021-01-06T01:15:03Z" finished-at="2021-01-06T01:15:06Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2966" started-at="2021-01-06T01:15:03Z" finished-at="2021-01-06T01:15:06Z">
+      <class name="com.testing.TestScripts.TC5_DeleteRequest">
+        <test-method status="PASS" signature="deleteRecordRequest()[pri:0, instance:com.testing.TestScripts.TC5_DeleteRequest@5d47c63f]" name="deleteRecordRequest" duration-ms="54" started-at="2021-01-06T06:45:05Z" finished-at="2021-01-06T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRecordRequest -->
+      </class> <!-- com.testing.TestScripts.TC5_DeleteRequest -->
+      <class name="com.testing.TestScripts.TC4_PutRequest">
+        <test-method status="PASS" signature="putRequest()[pri:0, instance:com.testing.TestScripts.TC4_PutRequest@5ea434c8]" name="putRequest" duration-ms="42" started-at="2021-01-06T06:45:05Z" finished-at="2021-01-06T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+      </class> <!-- com.testing.TestScripts.TC4_PutRequest -->
+      <class name="com.testing.TestScripts.TC9_GetSingleEmployeeDetails">
+        <test-method status="PASS" signature="getSingleRecordDetails()[pri:0, instance:com.testing.TestScripts.TC9_GetSingleEmployeeDetails@ca263c2]" name="getSingleRecordDetails" duration-ms="34" started-at="2021-01-06T06:45:06Z" finished-at="2021-01-06T06:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSingleRecordDetails -->
+      </class> <!-- com.testing.TestScripts.TC9_GetSingleEmployeeDetails -->
+      <class name="com.testing.TestScripts.TC7_PostRequestEmployee">
+        <test-method status="PASS" signature="testCase7()[pri:0, instance:com.testing.TestScripts.TC7_PostRequestEmployee@75f9eccc]" name="testCase7" duration-ms="1853" started-at="2021-01-06T06:45:03Z" finished-at="2021-01-06T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase7 -->
+      </class> <!-- com.testing.TestScripts.TC7_PostRequestEmployee -->
+      <class name="com.testing.TestScripts.TC2_GetRequest">
+        <test-method status="PASS" signature="testCase2()[pri:0, instance:com.testing.TestScripts.TC2_GetRequest@4ae3c1cd]" name="testCase2" duration-ms="585" started-at="2021-01-06T06:45:05Z" finished-at="2021-01-06T06:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase2 -->
+      </class> <!-- com.testing.TestScripts.TC2_GetRequest -->
+      <class name="com.testing.TestScripts.TC11_DeleteEmployeeRecord">
+        <test-method status="PASS" signature="deleteRecord()[pri:0, instance:com.testing.TestScripts.TC11_DeleteEmployeeRecord@29f69090]" name="deleteRecord" duration-ms="45" started-at="2021-01-06T06:45:06Z" finished-at="2021-01-06T06:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteRecord -->
+      </class> <!-- com.testing.TestScripts.TC11_DeleteEmployeeRecord -->
+      <class name="com.testing.TestScripts.TC8_GetRequestEmployee">
+        <test-method status="PASS" signature="getRequest()[pri:0, instance:com.testing.TestScripts.TC8_GetRequestEmployee@568bf312]" name="getRequest" duration-ms="42" started-at="2021-01-06T06:45:06Z" finished-at="2021-01-06T06:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRequest -->
+      </class> <!-- com.testing.TestScripts.TC8_GetRequestEmployee -->
+      <class name="com.testing.TestScripts.TC1_PostRequest">
+        <test-method status="PASS" signature="testCase1()[pri:0, instance:com.testing.TestScripts.TC1_PostRequest@3bbc39f8]" name="testCase1" duration-ms="59" started-at="2021-01-06T06:45:05Z" finished-at="2021-01-06T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase1 -->
+      </class> <!-- com.testing.TestScripts.TC1_PostRequest -->
+      <class name="com.testing.TestScripts.TC10_PutRequestEmployee">
+        <test-method status="PASS" signature="putRequest()[pri:0, instance:com.testing.TestScripts.TC10_PutRequestEmployee@67e2d983]" name="putRequest" duration-ms="107" started-at="2021-01-06T06:45:05Z" finished-at="2021-01-06T06:45:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- putRequest -->
+      </class> <!-- com.testing.TestScripts.TC10_PutRequestEmployee -->
+      <class name="com.testing.TestScripts.TC3_GetRequestAllData">
+        <test-method status="PASS" signature="testCase3()[pri:0, instance:com.testing.TestScripts.TC3_GetRequestAllData@589b3632]" name="testCase3" duration-ms="56" started-at="2021-01-06T06:45:06Z" finished-at="2021-01-06T06:45:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase3 -->
+      </class> <!-- com.testing.TestScripts.TC3_GetRequestAllData -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

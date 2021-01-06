@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.testing.TestScripts.TC7_PostRequestEmployee"/>
+      <class name="com.testing.TestScripts.TC10_PutRequestEmployee"/>
+      <class name="com.testing.TestScripts.TC5_DeleteRequest"/>
+      <class name="com.testing.TestScripts.TC4_PutRequest"/>
+      <class name="com.testing.TestScripts.TC1_PostRequest"/>
+      <class name="com.testing.TestScripts.TC2_GetRequest"/>
+      <class name="com.testing.TestScripts.TC11_DeleteEmployeeRecord"/>
+      <class name="com.testing.TestScripts.TC8_GetRequestEmployee"/>
+      <class name="com.testing.TestScripts.TC9_GetSingleEmployeeDetails"/>
+      <class name="com.testing.TestScripts.TC3_GetRequestAllData"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
